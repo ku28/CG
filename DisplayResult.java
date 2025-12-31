@@ -1,6 +1,6 @@
 public class DisplayResult {
     public static void main(String[] args) {
-        String name = "Alice";
+        String name = "Sam";
         int rollNumber = 1;
         double marks = 99.99;
         char result = 'P';
