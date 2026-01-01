@@ -1,6 +1,9 @@
-Capgemini Training
+# Capgemini Training
 
-# Java Programming Concepts - Notes (Learned on 31st December)
+**Date** 31st December 2025
+---
+
+# Java Programming Concepts - Notes
 
 ## 1. Java Comments
 - **Single Line:** // This is a single line comment
@@ -74,4 +77,3 @@ Capgemini Training
 - **AgeCal.java**: Practice variable declaration, assignment, and displaying results.
 
 ---
-**Date Learned:** 31st December 2025
