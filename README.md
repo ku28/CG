@@ -76,4 +76,9 @@
 - **KmToMiles.java, KmToMilesInput.java, CmToFeetInches.java, FeetToYardsMiles.java, SideOfSquare.java, AreaOfTriangle.java, VolOfEarth.java**: Practice type conversion, variable naming, and calculations.
 - **AgeCal.java**: Practice variable declaration, assignment, and displaying results.
 
+<<<<<<< HEAD:Readme.md
 ---
+=======
+---
+**Date Learned:** 31st December 2025
+>>>>>>> a94fa1a1fd093b8aad0d6821c7e211981db1e531:README.md
