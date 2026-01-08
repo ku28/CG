@@ -36,7 +36,6 @@ public class BMICalculator {
             
             System.out.println("\n--- BMI Report ---");
             System.out.println("Person\tHeight(m)\tWeight(kg)\tBMI\t\tStatus");
-            System.out.println("------\t---------\t----------\t---\t\t------");
             for (int i = 0; i < number; i++) {
                 System.out.printf("%d\t%.2f\t\t%.2f\t\t%.2f\t\t%s%n",
                         (i + 1), height[i], weight[i], bmi[i], weightStatus[i]);
