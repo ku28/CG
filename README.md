@@ -1,6 +1,3 @@
-# Capgemini Training
-
-
 # Java Programming Concepts - Notes
 
 **Date** 31st December 2025
